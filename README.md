@@ -3,7 +3,7 @@
 
 ## **The Repository**
 
-This repository (Horiseon-Code_Refactor) was built to refactor HTML to use semantic tags and consolidate CSS in order to follow accessibility standars.
+This repository (Horiseon-Code_Refactor) was built to refactor HTML to use semantic tags and consolidate CSS in order to follow accessibility standards.
 
 
 ## **User Story**
@@ -27,19 +27,11 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
-## **Screenshots**
-
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
 
 ## **Link**
 
 https://jess-222.github.io/Horiseon-Code-Refactor/
+
 
 ## **Installation**
 
